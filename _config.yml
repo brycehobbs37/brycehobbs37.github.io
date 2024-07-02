@@ -21,10 +21,10 @@ author: Bryce Hobbs
 
 navbar-links:
   Home: "home"
-  About Me: "aboutme"
   Research: "research"
   Publications: "pubs"
   Resources:
+    - About Me: "aboutme"
     - CV: "myCV.pdf"
     - Contact Me: "contact"
 
