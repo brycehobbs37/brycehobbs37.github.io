@@ -25,7 +25,7 @@ navbar-links:
   Research: "research"
   Publications: "pubs"
   Resources:
-    - CV: "myCV"
+    - CV: "myCV.pdf"
     - Contact Me: "contact"
 
 ################
